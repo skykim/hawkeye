@@ -1,6 +1,6 @@
 # hawkeye
 
-HawkEye is a sound visualization app for hearing impaired people.
+Hawkeye is a sound visualization app for hearing impaired people in AR glasses.
 
 [Demo (Youtube)](https://www.youtube.com/watch?v=g2rS4Pmex6o)
 
