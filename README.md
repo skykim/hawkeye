@@ -21,3 +21,19 @@ Hawkeye is a sound visualization app for hearing impaired people in AR glasses.
 - import the unity project (2021.3.4f1)
 
 - play
+
+### Members
+
+- Haneol Kim (Graduate School of Metaverse, Sogang University)
+
+- Donghoon Oh (Graduate School of Metaverse, Sogang University)
+
+- Jongwoo Jang (Graduate School of Metaverse, Sogang University)
+
+### Award
+
+- XR Device Contents: Minister of Science and ICT Award (Dec, 2022)
+
+### Contact Info
+
+- Sky Kim (loenahmik@gmail.com)
